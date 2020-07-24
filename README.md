@@ -10,3 +10,4 @@ Add the txt file of your favorite sub reddits in it.
 Run the exe program and type the name of your txt file and press enter.
 Then login to your reddit account and press enter on the exe program.
 Then wait.
+I've added the main code also.
